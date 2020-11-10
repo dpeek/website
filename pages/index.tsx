@@ -102,7 +102,7 @@ const Home = () => {
           <h2>Summary</h2>
 
           <p>
-            I am a creative software architect and engineering manager with
+            I am a creative software architect and engineering leader with
             fifteen years experience in all aspects of software design and
             delivery - from product definition and development, to usability and
             user interface design to full-stack application development and
@@ -152,7 +152,7 @@ const Home = () => {
           <h3>Team development</h3>
 
           <p>
-            At Massive I was involved in building the UI Engineering teams in
+            At Deltatre I was involved in building the UI Engineering teams in
             both Sydney and London offices. Building effective teams involved
             careful attention to hiring, induction and performance evaluation to
             best understand the strengths and weaknesses of new employees:
@@ -184,7 +184,7 @@ const Home = () => {
           <p>
             Effective QA requires close collaboration between engineers and
             testers, designing features with testability in mind, and a tight QA
-            feedback loop. At Massive I was involved in the development and
+            feedback loop. At Deltatre I was involved in the development and
             deployment of automated testing tools (unit, mocking and code
             coverage) as well as the definition of company QA processes:
           </p>
@@ -198,7 +198,7 @@ const Home = () => {
           <h3>Video Delivery</h3>
 
           <p>
-            Massive builds TV Everywhere solutions. Leading the client SDK team
+            Deltatre builds TV Everywhere solutions. Leading the client SDK team
             gave me valuable insight in delivering live and on demand video
             content to a huge range of devices:
           </p>
@@ -212,16 +212,51 @@ const Home = () => {
           <h2>Experience</h2>
 
           <h3>
+            Director, Solutions Engineering,
+            <a href="https://www.deltatre.com">
+              Deltatre
+              <span className="link">(https://www.deltatre.com)</span>
+            </a>{" "}
+            (4 years)
+          </h3>
+
+          <p>
+            As Director of the Solutions Engineering team, I lead a
+            cross-disciplinary team that spans commercial, technical, user
+            experience and legal concerns. We are responsible for the technical
+            architecture, design vision and commercial modeling of all new
+            business for the Video Experiences Division, pitching multi-year
+            projects to tier-one telcos and operators in the 5-40M USD TCO
+            range.
+          </p>
+
+          <p>Key acheivements:</p>
+
+          <ul>
+            <li>Sales growth of 50% year-over-year to north of 150M USD</li>
+            <li>
+              Lead a complete rethinking of our approach to commercial modeling,
+              using a data driven approach that provided customers with
+              transparency and encouraged continual improvement within the team
+            </li>
+            <li>
+              Engaged with all parts of the business to better understand how to
+              model costs spanning product licensing, cloud hosting, B2B / B2C
+              support, professional services and more.
+            </li>
+          </ul>
+
+          <h3>
             Solutions Architect,
-            <a href="http://massive.co">
-              Massive Interactive
-              <span className="link">(http://massive.co)</span>
+            <a href="https://www.deltatre.com">
+              Deltatre
+              <span className="link">(https://www.deltatre.com)</span>
             </a>{" "}
             (2 years)
           </h3>
 
           <p>
-            As a Solutions Architect I led service delivery teams in Massive's
+            As a Solutions Architect I led service delivery teams in Deltatre's
             London and Prague offices in delivering projects built on the AXIS
             video platform. My oversight spanned the duration of each project –
             from sales and estimation, to delivery and eventual handover to
@@ -230,7 +265,7 @@ const Home = () => {
 
           <p>
             During the sales process I was responsible for communicating
-            Massive's platform and solution to potential clients, refining the
+            Deltatre's platform and solution to potential clients, refining the
             sales pitch based on the requirements and scope of the project.
           </p>
 
@@ -894,10 +929,8 @@ const Home = () => {
       `}</style>
 
       <style jsx global>{`
-        @import url(
-          https://fonts.googleapis.com/css?family=Source + Sans + Pro:300,
-          400
-        );
+        @import url(https://fonts.googleapis.com/css?family=Source + Sans + Pro:300,
+          400);
 
         body {
           margin: 0px;
